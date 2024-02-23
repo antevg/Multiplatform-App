@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078403941390",
+    "project_id": "multiplatform-kmm",
+    "storage_bucket": "multiplatform-kmm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078403941390:android:8903a169ebc225d76da85f",
+        "android_client_info": {
+          "package_name": "com.eacipher.KMPApp.androidApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfOKruEm2RrRlTp4sDRNMb-SN_odXtLjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
